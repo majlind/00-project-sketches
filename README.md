@@ -2,7 +2,7 @@
 readme.md with links to individual repos
 
 ## Tim Duncan tribute
-* get the gitpages id*
+* get the gitpages id
 [protocol for a link](#a)
 
 ## retroPie project potentially?
